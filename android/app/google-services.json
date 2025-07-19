@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998685125958",
+    "project_id": "alera-a0132",
+    "storage_bucket": "alera-a0132.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998685125958:android:d5b0bf26559048332d4947",
+        "android_client_info": {
+          "package_name": "com.example.alera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjPCDCq3GBug-qm3oFtHd8aYY4kDP3BaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
