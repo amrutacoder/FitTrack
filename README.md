@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FitTrack – Health & Wellness Tracker App
 
 **FitTrack** is a mobile application built using **Flutter** and **Firebase**, designed to help users maintain a healthy lifestyle by tracking **fitness**, **diet**, **medication**, and **hydration** routines — all in one place.
